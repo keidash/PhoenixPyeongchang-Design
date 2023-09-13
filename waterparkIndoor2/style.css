@@ -1,0 +1,346 @@
+.waterpark-indoor {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.waterpark-indoor .div {
+  background-color: #ffffff;
+  width: 1900px;
+  height: 2580px;
+  position: relative;
+}
+
+.waterpark-indoor .waterparkin {
+  width: 1900px;
+  height: 300px;
+  top: 111px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-indoor .overlap-group {
+  position: absolute;
+  width: 1898px;
+  height: 975px;
+  top: 411px;
+  left: 0;
+}
+
+.waterpark-indoor .img {
+  width: 1898px;
+  height: 726px;
+  top: 0;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-indoor .frame {
+  position: absolute;
+  width: 1203px;
+  height: 254px;
+  top: 721px;
+  left: 348px;
+  background-color: #ffffff;
+  border: 5px solid;
+  border-color: #000000;
+}
+
+.waterpark-indoor .frame-2 {
+  position: absolute;
+  width: 758px;
+  height: 44px;
+  top: 41px;
+  left: 218px;
+}
+
+.waterpark-indoor .button-switcher {
+  display: flex;
+  width: 562px;
+  height: 44px;
+  align-items: center;
+  justify-content: center;
+  gap: 44px;
+  position: absolute;
+  top: 0;
+  left: 196px;
+}
+
+.waterpark-indoor .button {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 9px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -2.5px;
+  margin-bottom: -2.5px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  border: 3px dashed;
+  border-color: #000000;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.waterpark-indoor .text-wrapper {
+  position: relative;
+  width: fit-content;
+  font-family: "Gudea", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.waterpark-indoor .button-wrapper {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 9px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #000000;
+  border-radius: 20px;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.waterpark-indoor .button-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Gudea", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  all: unset;
+  box-sizing: border-box;
+}
+
+.waterpark-indoor .text-wrapper-2 {
+  position: absolute;
+  width: 185px;
+  height: 36px;
+  top: 3px;
+  left: 0;
+  font-family: "Gudea", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.waterpark-indoor .waterparkin-guardian {
+  position: absolute;
+  width: 1193px;
+  height: 72px;
+  top: 130px;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-indoor .waterparkin-2 {
+  width: 1897px;
+  height: 895px;
+  top: 1398px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-indoor .waterparkin-3 {
+  width: 1900px;
+  height: 287px;
+  top: 2293px;
+  position: absolute;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-indoor .back-to-top-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 30px 20px;
+  position: fixed;
+  top: 897px;
+  left: 1590px;
+  background-color: #000000;
+  border-radius: 80px;
+  box-shadow: 0px 4px 24px #00000040;
+}
+
+.waterpark-indoor .group {
+  position: relative;
+  width: 22.09px;
+  height: 24.68px;
+  margin-left: -1.49px;
+}
+
+.waterpark-indoor .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-indoor .top-menu-bar {
+  position: fixed;
+  width: 1900px;
+  height: 111px;
+  top: 0;
+}
+
+.waterpark-indoor .guide {
+  position: absolute;
+  width: 1900px;
+  height: 60px;
+  top: 51px;
+  left: 0;
+  background-color: #000000;
+}
+
+.waterpark-indoor .text-wrapper-4 {
+  position: absolute;
+  top: 19px;
+  left: 742px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-indoor .text-wrapper-5 {
+  position: absolute;
+  top: 19px;
+  left: 1002px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-indoor .top-menu {
+  position: absolute;
+  width: 1900px;
+  height: 51px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/top-menu.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.waterpark-indoor .top-menu-2 {
+  position: relative;
+  width: 806px;
+  height: 51px;
+  left: 547px;
+  background-color: #2f2d2d;
+}
+
+.waterpark-indoor .ACCOMMODATION {
+  position: absolute;
+  width: 255px;
+  height: 26px;
+  top: 18px;
+  left: 275px;
+}
+
+.waterpark-indoor .text-wrapper-6 {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-indoor .text-wrapper-7 {
+  position: absolute;
+  top: 12px;
+  left: 627px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.highlight {
+  color: white;
+  background-color: black;
+  font-size: 24px;
+}
+
+a.menu:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.menu:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.menu:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.menu:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a.filter:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.filter:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a.filter:hover {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+
+a.filter:active {
+  color: black;
+  background-color: transparent;
+}

@@ -1,0 +1,232 @@
+.waterpark-home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.waterpark-home .div {
+  background-color: #ffffff;
+  width: 1900px;
+  height: 3511px;
+  position: relative;
+}
+
+.waterpark-home .waterparkhome {
+  position: absolute;
+  width: 1897px;
+  height: 305px;
+  top: 111px;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-home .img {
+  position: absolute;
+  width: 1900px;
+  height: 896px;
+  top: 416px;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-home .overlap-group {
+  position: absolute;
+  width: 1900px;
+  height: 2096px;
+  top: 1415px;
+  left: 0;
+}
+
+.waterpark-home .waterparkhome-2 {
+  position: absolute;
+  width: 1898px;
+  height: 721px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-home .waterparkhome-3 {
+  position: absolute;
+  width: 1898px;
+  height: 637px;
+  top: 704px;
+  left: 2px;
+  object-fit: cover;
+}
+
+.waterpark-home .waterparkhome-4 {
+  position: absolute;
+  width: 1898px;
+  height: 841px;
+  top: 1255px;
+  left: 0;
+  object-fit: cover;
+}
+
+.waterpark-home .outdoorzone {
+  position: absolute;
+  width: 590px;
+  height: 403px;
+  top: 1341px;
+  left: 963px;
+  object-fit: cover;
+}
+
+.waterpark-home .indoorzone {
+  position: absolute;
+  width: 587px;
+  height: 403px;
+  top: 1341px;
+  left: 350px;
+  object-fit: cover;
+}
+
+.waterpark-home .back-to-top-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 30px 20px;
+  position: fixed;
+  top: 894px;
+  left: 1598px;
+  background-color: #000000;
+  border-radius: 80px;
+  box-shadow: 0px 4px 24px #00000040;
+}
+
+.waterpark-home .group {
+  position: relative;
+  width: 22.09px;
+  height: 24.68px;
+  margin-left: -1.49px;
+}
+
+.waterpark-home .text-wrapper {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-home .top-menu-bar {
+  position: fixed;
+  width: 1900px;
+  height: 111px;
+  top: 0;
+}
+
+.waterpark-home .guide {
+  position: absolute;
+  width: 1900px;
+  height: 60px;
+  top: 51px;
+  left: 0;
+  background-color: #000000;
+}
+
+.waterpark-home .text-wrapper-2 {
+  position: absolute;
+  top: 19px;
+  left: 742px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-home .text-wrapper-3 {
+  position: absolute;
+  top: 19px;
+  left: 1002px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-home .top-menu {
+  position: absolute;
+  width: 1900px;
+  height: 51px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/top-menu.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.waterpark-home .top-menu-2 {
+  position: relative;
+  width: 806px;
+  height: 51px;
+  left: 547px;
+  background-color: #2f2d2d;
+}
+
+.waterpark-home .ACCOMMODATION {
+  position: absolute;
+  width: 255px;
+  height: 26px;
+  top: 18px;
+  left: 275px;
+}
+
+.waterpark-home .text-wrapper-4 {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+.waterpark-home .text-wrapper-5 {
+  position: absolute;
+  top: 12px;
+  left: 627px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 2.16px;
+  line-height: normal;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
